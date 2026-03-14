@@ -11,3 +11,5 @@ function selectRandomOf(valueInArray) {
 
     return final;
 }
+
+console.log(selectRandomOf([2, 3, 4, 5]));
